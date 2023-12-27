@@ -28,9 +28,9 @@ Java, PHP, Python, Nodejs, Typescript, etc.
 
 ### Open source
 
-- [nodite-light](https://github.com/nodite/nodite-light): A web framework with React & Express, use Javascript, Typescript & Nodejs for everything.
+- [nodite-light](https://github.com/nodite/nodite-light): A web framework with Vue & Express, use Javascript, Typescript & Nodejs for everything.
 - [local-cname](https://github.com/Oscaner/local-cname): Helper script to emulate a local CNAME DNS by writing to /etc/hosts
-- [homebrew-chinese](https://github.com/ivaquero/homebrew-chinese): 🀄 一个致力于服务国人的 Homebrew 🍺 第三方库
+- [homebrew-chinese](https://github.com/Brewforge/homebrew-chinese): 🀄 一个致力于服务国人的 Homebrew 🍺 第三方库
 
 ### Reach me
 
