@@ -26,18 +26,14 @@ Java, PHP, Python, Nodejs, Typescript, etc.
 - AWS
 - Azure
 
-### Open source
-
-- [nodite-light](https://github.com/nodite/nodite-light): A web framework with Vue & Express, use Javascript, Typescript & Nodejs for everything.
-- [local-cname](https://github.com/Oscaner/local-cname): Helper script to emulate a local CNAME DNS by writing to /etc/hosts
-- [homebrew-chinese](https://github.com/Brewforge/homebrew-chinese): 🀄 一个致力于服务国人的 Homebrew 🍺 第三方库
-
 ### Reach me
 
 - Wechat: oscaner1997 (Recommend)
 - QQ: 2573226076
-- Gmail: <oscaner1997@gmail.com>
+- Gmail: <oscaner1997@163.com>
 - Blog: <www.oscaner.com> (Refactoring)
+- 公众号/Official Accounts: 三予四方 (SY251008)
+- 小红书/RedNote: 小三予 (SY_Oscaner)
 
 <p>
 <img src="https://komarev.com/ghpvc/?username=Oscaner" alt="Oscaner" />
