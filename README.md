@@ -112,9 +112,9 @@ graph LR
 </td>
 <td width="50%" valign="top">
 
-[![Official Account](https://img.shields.io/badge/公众号-予念以安-07C160?style=for-the-badge&logo=wechat&logoColor=white)](#予念以安)
+[![Official Account](https://img.shields.io/badge/公众号-予念以安%28SY251008%29-07C160?style=for-the-badge&logo=wechat&logoColor=white)](#予念以安)
 
-[![RedNote](https://img.shields.io/badge/小红书-小三予-FF2442?style=for-the-badge&logo=xiaohongshu&logoColor=white)](https://www.xiaohongshu.com/user/profile/5b54017ae8ac2b0b18e891a4)
+[![RedNote](https://img.shields.io/badge/小红书-小三予%28SY_Oscaner%29-FF2442?style=for-the-badge&logo=xiaohongshu&logoColor=white)](https://www.xiaohongshu.com/user/profile/5b54017ae8ac2b0b18e891a4)
 
 </td>
 </tr>
