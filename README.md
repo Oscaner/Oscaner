@@ -59,7 +59,7 @@ const oscaner = {
 
 ### 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=oscaner&theme=default&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
+<img src="https://github-profile-trophy.vercel.app/?username=oscaner&theme=flat&no-frame=false&no-bg=false&column=7&margin-w=15&margin-h=15" />
 
 </div>
 
@@ -91,17 +91,21 @@ graph LR
 
 ---
 
-<div align="center">
-
 ### 🌐 Connect With Me
 
 [![WeChat](https://img.shields.io/badge/WeChat-oscaner1997-07C160?style=for-the-badge&logo=wechat&logoColor=white)](#oscaner1997)
-[![Blog](https://img.shields.io/badge/Blog-Oscaner-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://www.oscaner.com)
+<br/>
+[![Blog](https://img.shields.io/badge/Blog-www.oscaner.com-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://www.oscaner.com)
+<br/>
 [![Email](https://img.shields.io/badge/Email-oscaner1997@163.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oscaner1997@163.com)
+<br/>
 [![Official Account](https://img.shields.io/badge/公众号-予念以安-07C160?style=for-the-badge&logo=wechat&logoColor=white)](#予念以安)
+<br/>
 [![RedNote](https://img.shields.io/badge/小红书-小三予-FF2442?style=for-the-badge&logo=xiaohongshu&logoColor=white)](https://www.xiaohongshu.com/user/profile/5b54017ae8ac2b0b18e891a4)
 
-<br/>
+---
+
+<div align="center">
 
 ### 💬 Random Dev Quote
 
