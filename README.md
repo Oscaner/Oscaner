@@ -75,6 +75,8 @@ const oscaner = {
 
 ---
 
+<div align="center">
+
 ### 🎯 Current Mission
 
 ```mermaid
@@ -89,19 +91,36 @@ graph LR
     style E fill:#A855F7,stroke:#fff,stroke-width:2px,color:#fff
 ```
 
+</div>
+
 ---
+
+<div align="center">
 
 ### 🌐 Connect With Me
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 [![WeChat](https://img.shields.io/badge/WeChat-oscaner1997-07C160?style=for-the-badge&logo=wechat&logoColor=white)](#oscaner1997)
-<br/>
-[![Blog](https://img.shields.io/badge/Blog-www.oscaner.com-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://www.oscaner.com)
-<br/>
+
 [![Email](https://img.shields.io/badge/Email-oscaner1997@163.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oscaner1997@163.com)
-<br/>
+
+[![Blog](https://img.shields.io/badge/Blog-www.oscaner.com-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://www.oscaner.com)
+
+</td>
+<td width="50%" valign="top">
+
 [![Official Account](https://img.shields.io/badge/公众号-予念以安-07C160?style=for-the-badge&logo=wechat&logoColor=white)](#予念以安)
-<br/>
+
 [![RedNote](https://img.shields.io/badge/小红书-小三予-FF2442?style=for-the-badge&logo=xiaohongshu&logoColor=white)](https://www.xiaohongshu.com/user/profile/5b54017ae8ac2b0b18e891a4)
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
