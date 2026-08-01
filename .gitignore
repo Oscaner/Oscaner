@@ -1,0 +1,5 @@
+# Local docs (incl. superpowers specs/plans/tickets)
+docs/
+
+.cursor/
+.mcp.json
