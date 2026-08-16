@@ -88,19 +88,19 @@ MCP server for 小红书 · npm `@nodite/rednote-mcp` v0.5.1
 
 ### 🔧 Tech Focus
 
-**Languages & Runtimes**  
+**Languages & Runtimes**
 TypeScript · Python · Java · Node.js · Go · Ruby · Shell
 
-**AI & Agent**  
+**AI & Agent**
 MCP · Dify · LiteLLM · LangGraph · Langfuse · RAG · ChatBI · Claude Code · Agent Skills
 
-**Data & Backend**  
+**Data & Backend**
 Prisma · PostgreSQL · Express · TSOA · Hono · Semantic Layer · REST
 
-**Web & UI**  
+**Web & UI**
 Next.js · React · Vue · Vuetify · Strapi
 
-**Infra & DevOps**  
+**Infra & DevOps**
 Docker · Kubernetes · Ansible · GCP · Jenkins · Homebrew · GitHub Actions
 
 </div>
@@ -126,7 +126,7 @@ Docker · Kubernetes · Ansible · GCP · Jenkins · Homebrew · GitHub Actions
 
 [![Official Account](https://img.shields.io/badge/公众号-予念以安%28SY251008%29-07C160?style=for-the-badge&logo=wechat&logoColor=white)](#予念以安)
 
-[![RedNote](https://img.shields.io/badge/小红书-小三予%28SY_Oscaner%29-FF2442?style=for-the-badge&logo=xiaohongshu&logoColor=white)](https://www.xiaohongshu.com/user/profile/5b54017ae8ac2b0b18e891a4)
+[![RedNote](https://img.shields.io/badge/小红书-木鱼敲出电火花%28SY__Oscaner%29-FF2442?style=for-the-badge&logo=xiaohongshu&logoColor=white)](https://www.xiaohongshu.com/user/profile/5b54017ae8ac2b0b18e891a4)
 
 </td>
 </tr>
