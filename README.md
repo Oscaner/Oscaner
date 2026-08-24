@@ -52,8 +52,6 @@ const oscaner = {
 
 ---
 
----
-
 <div align="center">
 
 ### ⭐ Featured Projects
