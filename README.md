@@ -15,22 +15,23 @@
 
 ---
 
-### 🎭 About Me
+### 🧭 我是谁
 
-```typescript
-const oscaner = {
-  name: "Oscaner Miao",
-  role: "Solution Architect · AI Agent · Open Source Maintainer",
-  location: "📍 Ningbo, China",
-  focus: [
-    "AI / Agent 开发者",
-    "方案架构师",
-    "新媒体运营",
-    "国学文化主理人",
-  ],
-  motto: "心若浮沉，浅笑安然 · Code with purpose",
-};
-```
+<div align="center">
+
+| 🤖 AI / Agent 开发者 | 🏗️ 方案架构师 |
+| --- | --- |
+| 写工具的开发者：RedNote-MCP、Oscaner/skills | 企业语义平台 / LLM 基建 |
+| [→ 看项目](https://github.com/Oscaner/skills) | [→ 看经验](#-professional-experience--) |
+
+| 📣 新媒体运营 | 📜 国学文化主理人 |
+| --- | --- |
+| 小红书运营方法论 | 诗/书/礼/茶/香 · 山/医/命/相/卜 |
+| [→ 鱼木日记 (SY_Dairy)](https://www.xiaohongshu.com/user/profile/69133359000000003700a0f6) | [→ 木鱼敲出电火花 (SY_Oscaner)](https://www.xiaohongshu.com/user/profile/5b54017ae8ac2b0b18e891a4) |
+
+</div>
+
+---
 
 ---
 
