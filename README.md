@@ -26,7 +26,7 @@
 
 | 📣 新媒体运营 | 📜 国学文化主理人 |
 | --- | --- |
-| 小红书运营方法论 | 诗/书/礼/茶/香 · 山/医/命/相/卜 |
+| 小红书运营方法论 | 诗书礼茶香 · 山医命相卜 |
 | [→ 鱼木日记 (SY_Dairy)](https://www.xiaohongshu.com/user/profile/69133359000000003700a0f6) | [→ 木鱼敲出电火花 (SY_Oscaner)](https://www.xiaohongshu.com/user/profile/5b54017ae8ac2b0b18e891a4) |
 
 </div>
@@ -60,12 +60,12 @@ const oscaner = {
 <tr>
 <td width="50%" valign="top" align="center">
 
-**[nodite-light](https://github.com/nodite/nodite-light)**
+**[skills](https://github.com/Oscaner/skills)**
 
-153★ · Full-stack TS framework — Vuetify + Express, Docker-ready
+Claude Code plugin marketplace — superpowers × mattpocock pipeline
 
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/CI-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="CI" />
 
 </td>
 <td width="50%" valign="top" align="center">
@@ -82,23 +82,22 @@ const oscaner = {
 <tr>
 <td width="50%" valign="top" align="center">
 
-**[skills](https://github.com/Oscaner/skills)**
+**[nodite](https://github.com/nodite)**
 
-Claude Code plugin marketplace — superpowers × mattpocock pipeline
+开源组织 · RedNote-MCP 等 AI / 工具项目
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/CI-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="CI" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/Org-A855F7?style=flat-square" alt="Org" />
 
 </td>
 <td width="50%" valign="top" align="center">
 
-**[RedNote-MCP](https://github.com/nodite/RedNote-MCP)**
+**[progress-bar-next](https://github.com/progress-bar-next)**
 
-MCP server for 小红书 · npm `@nodite/rednote-mcp` v0.5.1
+开源组织 · 进度条 Next
 
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/MCP-A855F7?style=flat-square" alt="MCP" />
-<img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white" alt="npm" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/Org-FF5722?style=flat-square" alt="Org" />
 
 </td>
 </tr>
