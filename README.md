@@ -33,6 +33,25 @@
 
 ---
 
+<details>
+<summary><strong>💻 技术味彩蛋</strong></summary>
+
+<br/>
+
+````typescript
+const oscaner = {
+  name: "Oscaner Miao",
+  role: "Solution Architect · AI Agent · Open Source Maintainer",
+  location: "📍 Ningbo, China",
+  tags: ["开发者", "架构师", "运营", "国学"],
+  motto: "心若浮沉，浅笑安然 · Code with purpose",
+};
+````
+
+</details>
+
+---
+
 ---
 
 <div align="center">
