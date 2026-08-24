@@ -135,6 +135,18 @@ Docker · Kubernetes · Ansible · GCP · Jenkins · Homebrew · GitHub Actions
 
 <div align="center">
 
+### 📊 GitHub 动态
+
+![Oscaner's GitHub stats](https://github-readme-stats.vercel.app/api?username=Oscaner&show_icons=true&theme=radical&hide_border=true)
+
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Oscaner.Oscaner)
+
+</div>
+
+---
+
+<div align="center">
+
 ### 🌐 Connect With Me
 
 <table>
