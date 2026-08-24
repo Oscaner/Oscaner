@@ -166,6 +166,8 @@ Docker · Kubernetes · Ansible · GCP · Jenkins · Homebrew · GitHub Actions
 
 [![RedNote](https://img.shields.io/badge/小红书-木鱼敲出电火花%28SY__Oscaner%29-FF2442?style=for-the-badge&logo=xiaohongshu&logoColor=white)](https://www.xiaohongshu.com/user/profile/5b54017ae8ac2b0b18e891a4)
 
+[![RedNote Dairy](https://img.shields.io/badge/小红书-鱼木日记%28SY__Dairy%29-FF2442?style=for-the-badge&logo=xiaohongshu&logoColor=white)](https://www.xiaohongshu.com/user/profile/69133359000000003700a0f6)
+
 </td>
 </tr>
 </table>
