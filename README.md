@@ -22,7 +22,7 @@
 | 🤖 AI / Agent 开发者 | 🏗️ 方案架构师 |
 | --- | --- |
 | 写工具的开发者：RedNote-MCP、Oscaner/skills | 企业语义平台 / LLM 基建 |
-| [→ 看项目](https://github.com/Oscaner/skills) | [→ 看经验](#-professional-experience--) |
+| [→ 看项目](https://github.com/Oscaner/skills) | [→ 看经验](#professional-experience) |
 
 | 📣 新媒体运营 | 📜 国学文化主理人 |
 | --- | --- |
@@ -174,7 +174,7 @@ Docker · Kubernetes · Ansible · GCP · Jenkins · Homebrew · GitHub Actions
 
 ---
 
-<details>
+<details id="professional-experience">
 <summary><strong>🏗️ Professional Experience — AI Agent & Semantic Platform</strong></summary>
 
 <br/>
