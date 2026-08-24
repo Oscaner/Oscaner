@@ -1,12 +1,17 @@
 <div align="center">
 
 <!-- Dynamic Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=%E4%BA%8B%E5%B7%B2%E8%87%B3%E6%AD%A4%EF%BC%8C%E5%85%88%E5%86%99+MCP+%E5%90%A7+%F0%9F%8D%9A;Building+AI+Agent+Toolchains+%C2%B7+%E4%BC%81%E4%B8%9A%E7%BA%A7+Data%2FGenAI;Of+Course+I+Still+Love+You+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=%E4%BA%8B%E5%B7%B2%E8%87%B3%E6%AD%A4+%E5%85%88%E5%90%83%E9%A5%AD%E5%90%A7+%F0%9F%8D%9A;Building+AI+Agent+Toolchains+%C2%B7+%E4%BC%81%E4%B8%9A%E7%BA%A7+Data%2FGenAI;Of+Course+I+Still+Love+You+%F0%9F%9A%80" alt="Typing SVG" />
 
 <!-- Animated Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Oscaner%20Miao&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
 
 </div>
+
+---
+
+> 白天搭 Agent，夜里读闲书。
+> 一人分饰四角：写代码、做架构、搞运营、讲国学。
 
 ---
 
@@ -18,9 +23,10 @@ const oscaner = {
   role: "Solution Architect · AI Agent · Open Source Maintainer",
   location: "📍 Ningbo, China",
   focus: [
-    "Multi-tenant Semantic Platform",
-    "MCP & Agent Tooling",
-    "Semantic Layer & ChatBI",
+    "AI / Agent 开发者",
+    "方案架构师",
+    "新媒体运营",
+    "国学文化主理人",
   ],
   motto: "心若浮沉，浅笑安然 · Code with purpose",
 };
@@ -92,7 +98,7 @@ MCP server for 小红书 · npm `@nodite/rednote-mcp` v0.5.1
 TypeScript · Python · Java · Node.js · Go · Ruby · Shell
 
 **AI & Agent**
-MCP · Dify · LiteLLM · LangGraph · Langfuse · RAG · ChatBI · Claude Code · Agent Skills
+MCP · LiteLLM · LangGraph · Langfuse · RAG · ChatBI · Claude Code · Agent Skills
 
 **Data & Backend**
 Prisma · PostgreSQL · Express · TSOA · Hono · Semantic Layer · REST
