@@ -94,12 +94,12 @@ const oscaner = {
 </td>
 <td width="50%" valign="top" align="center">
 
-**[sy-oscaner](https://github.com/sy-oscaner)**
+**[Brewforge](https://github.com/Brewforge)**
 
-开源组织 · progress-bar-next、sy-toolset
+开源组织 · homebrew-extras 28★、homebrew-more（Homebrew tap 生态）
 
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/Org-FF5722?style=flat-square" alt="Org" />
+<img src="https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white" alt="Ruby" />
+<img src="https://img.shields.io/badge/Homebrew-FBB040?style=flat-square&logo=homebrew&logoColor=black" alt="Homebrew" />
 
 </td>
 </tr>
@@ -107,7 +107,23 @@ const oscaner = {
 
 <br/>
 
-参与贡献：Heeler · med-exam-kit · llm-guard · dify-plugin-daemon
+**合作过（有合并提交）**：
+[Heeler](https://github.com/ZingerLittleBee/Heeler) 915★ ·
+[med-exam-kit](https://github.com/zyh001/med-exam-kit) 29★ ·
+[llm-guard](https://github.com/protectai/llm-guard) 3.2k★ ·
+[dify-plugin-daemon](https://github.com/langgenius/dify-plugin-daemon) ·
+[dify-helm](https://github.com/BorisPolonsky/dify-helm) ·
+[ansible-role-p10k](https://github.com/diodonfrost/ansible-role-p10k)
+
+**提过 issue / 建议**：
+[RedNote-MCP](https://github.com/iFurySt/RedNote-MCP) ·
+[weapp-vite](https://github.com/weapp-vite/weapp-vite) ·
+[cc-switch](https://github.com/farion1231/cc-switch) ·
+[magpie](https://github.com/yetone/magpie) ·
+[mattpocock/skills](https://github.com/mattpocock/skills) ·
+[homebrew-tap](https://github.com/nowledge-co/homebrew-tap) ·
+[Dify](https://github.com/langgenius/dify) ·
+[Vuetify](https://github.com/vuetifyjs/vuetify)
 
 </div>
 
